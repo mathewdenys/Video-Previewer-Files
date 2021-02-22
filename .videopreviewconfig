@@ -1,0 +1,9 @@
+## Valid options
+ maximum_percentage = 50
+ minimum_sampling = 10
+ frame_size = 0.3
+
+## Invalid options
+ invalid_line_1 = 	#invalid because the option is not recognised
+ invalid_line_2 = true	#invalid because the option is not recognised
+ frames_to_show = true	#invalid because of an invalid value for the option
