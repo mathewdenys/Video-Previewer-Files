@@ -1,5 +1,5 @@
 ## Valid options
- maximum_percentage = 50
+ maximum_percentage = 20
  minimum_sampling = 10
  frame_size = 0.3
 
